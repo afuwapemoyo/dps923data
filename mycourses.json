@@ -1,0 +1,12 @@
+{
+  "student": "Ismaila Afuwape",
+  "version": "1.0.0",
+  "timestamp": "2019-11-16T11.39:12+0000",
+  "count": 4,
+  "data": [
+	{"id": 23,"courseCode":"ITC5102","CourserName":"Java Programming" },
+	{"id": 24,"courseCode":"ITC5101","CourserName":"Operating Systems" },
+	{"id": 25,"courseCode":"ITC5104","CourserName":"Database and SQL" },
+	{"id": 29,"courseCode":"BTS5430","CourserName":"Softwate System 2" },
+]
+}
