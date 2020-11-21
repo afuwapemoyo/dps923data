@@ -5,18 +5,18 @@
   "count": 3,
   "data": 
   [{
-    "id": 23,
-    "TicketNumber":"1",
-    "Ticket":"Type" 
+    "type": "Balcony level",
+    "price":1170,
+    "amount": 20 
   },
 	{
-    "id": 24,
-    "TicketNumber":"2",
-    "Ticket":"Price" 
+    "type": "Lower level",
+    "price":10434,
+    "amount": 40 
   },
 	{
-    "id": 25,
-    "TicketNumber":"3",
-    "Ticket":"quantity" 
+    "type": "Courtside level",
+    "price":27777,
+    "amount": 30 
   }]
 }
