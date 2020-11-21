@@ -1,0 +1,22 @@
+{
+  "student": "Ismaila Afuwape",
+  "version": "1.0.0",
+  "timestamp": "2019-11-16T11.39:12+0000",
+  "count": 4,
+  "data": 
+  [{
+    "id": 23,
+    "TicketNumber":"1",
+    "Ticket":"Type" 
+  },
+	{
+    "id": 24,
+    "TicketNumber":"2",
+    "Ticket":"Price" 
+  },
+	{
+    "id": 25,
+    "TicketNumber":"3",
+    "Ticket":"quantity" 
+  }]
+}
